@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+  
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+body{
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/bg.jpg);
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+  }
+  .navbar-nav .nav-link {
+    font-weight: 500;
+  }
+  .para h5{
+    color: #f2a007;
+  }
+  
+  .para p{
+    color: #fff;
+  }
+
+
+ .skills h6{
+    color: #f2a007;
+    font-weight: 600;
+ }
+ .skills h4{
+    color: #f2a007;
+ }
+.skills p{
+    color: #fff;
+}
+
+.main-img{
+ background: linear-gradient();
+}
+.exe-cont h1{
+    color: #f2a007;
+}
+.exe-cont h3{
+    color: #f2a007;
+}
+.exe-cont span{
+    color: #f2a007;
+}
+  footer {
+    
+    position: sticky;
+    margin-top: 20px;
+   background-color: black;
+    padding: 20px 0;
+    font-size: 14px;
+    line-height: 1.0;
+  }
+  footer h4 {
+    color: white;
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  footer ul li {
+    color: white;
+    margin-bottom: 10px;
+  }
+  footer ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    transition: all 0.3s ease;
+  }
+  footer ul li a:hover {
+    color: #f2a007;
+  }
+  footer .bg-secondary {
+    font-size: 12px;
+    color: #fff;
+    text-align: center;
+  }
+  footer .copy a{
+    
+    color: white;
+    text-decoration: none;
+  }
+.contact{
+    color: white;
+}
+.abt{
+    color: white;
+}
+.copy p{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.img-med img{
+    max-width: 100%;
+    height: auto;
+    /* object-fit: cover;
+    object-position: center; */
+}
